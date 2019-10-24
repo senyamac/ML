@@ -2,3 +2,5 @@
 
 Задача:  https://archive.ics.uci.edu/ml/datasets/Automobile
 
+Дата загрузки 1 версии: 10 октября
+Дата загрузкт 2 версии: 24 октября
